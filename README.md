@@ -1,6 +1,6 @@
 # R-Books
 
-UsefulR books, written with the [bookdown pkg](https://github.com/rstudio/bookdown)
+Useful R books, written with the [bookdown pkg](https://github.com/rstudio/bookdown)
 
   
 - [bookdown](https://bookdown.org/yihui/bookdown/) bookdown: Authoring Books and Technical Documents with R Markdown.
