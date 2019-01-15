@@ -27,3 +27,5 @@ This short book introduces an R package, bookdown, to change your workflow of wr
 - [The tidyverse style guide](http://style.tidyverse.org/index.html) Good coding style is like correct punctuation: you can manage without it, butitsuremakesthingseasiertoread. This site describes the style used throughout the tidyverse. It was originally derived from Google’s R style guide, but has evolved and expanded considerably over the years.
 
 - [Mongolite User Manual](https://jeroen.github.io/mongolite/) This book provides a high level introduction to using MongoDB with the mongolite client in R.
+
+- [Text Mining with R](https://www.tidytextmining.com/) This book serves as an introduction of text mining using the tidytext package and other tidy tools in R. The functions provided by the tidytext package are relatively simple; what is important are the possible applications. Thus, this book provides compelling examples of real text mining problems.
