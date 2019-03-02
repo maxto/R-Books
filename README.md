@@ -31,3 +31,5 @@ This short book introduces an R package, bookdown, to change your workflow of wr
 - [Text Mining with R](https://www.tidytextmining.com/) This book serves as an introduction of text mining using the tidytext package and other tidy tools in R. The functions provided by the tidytext package are relatively simple; what is important are the possible applications. Thus, this book provides compelling examples of real text mining problems.
 
 - [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/) The goals of Feature Engineering and Selection are to provide tools for re-representing predictors, to place these tools in the context of a good predictive modeling framework, and to convey our experience of utilizing these tools in practice.
+
+- [Statistical Inference via Data Science](https://moderndive.com/) This book will help you develop your “data science toolbox”, including tools such as data visualization, data formatting, data wrangling, and data modeling using regression. With these tools, you’ll be able to perform the entirety of the “data/science pipeline” while building data communication skills
