@@ -1,6 +1,6 @@
 # R-Books
 
-Useful R books, written with the [bookdown pkg](https://github.com/rstudio/bookdown)
+Useful R books, written with the [bookdown pkg](https://bookdown.org/)
 
   
 - [bookdown](https://bookdown.org/yihui/bookdown/) bookdown: Authoring Books and Technical Documents with R Markdown.
@@ -35,5 +35,7 @@ This short book introduces an R package, bookdown, to change your workflow of wr
 - [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/) The goals of Feature Engineering and Selection are to provide tools for re-representing predictors, to place these tools in the context of a good predictive modeling framework, and to convey our experience of utilizing these tools in practice.
 
 - [Statistical Inference via Data Science](https://moderndive.com/) This book will help you develop your “data science toolbox”, including tools such as data visualization, data formatting, data wrangling, and data modeling using regression. With these tools, you’ll be able to perform the entirety of the “data/science pipeline” while building data communication skills
+
+- [R Graphics Cookbook, 2nd edition](https://r-graphics.org/) A practical guide that provides more than 150 recipes to help you generate high-quality graphs quickly, without having to comb through all the details of R’s graphing systems. 
 
 Misc books [here](https://bookdown.org/home/archive/)
