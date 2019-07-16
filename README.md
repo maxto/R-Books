@@ -38,4 +38,8 @@ This short book introduces an R package, bookdown, to change your workflow of wr
 
 - [R Graphics Cookbook, 2nd edition](https://r-graphics.org/) A practical guide that provides more than 150 recipes to help you generate high-quality graphs quickly, without having to comb through all the details of R’s graphing systems. 
 
+- [Data Visualization with R](https://rkabacoff.github.io/datavis/) R is an amazing platform for data analysis, capable of creating almost any type of graph. This book helps you create the most popular visualizations - from quick and dirty plots to publication-ready graphs. The text relies heavily on the ggplot2 package for graphics, but other approaches are covered as well.
+
+
+
 Misc books [here](https://bookdown.org/home/archive/)
