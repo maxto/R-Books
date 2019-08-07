@@ -40,6 +40,6 @@ This short book introduces an R package, bookdown, to change your workflow of wr
 
 - [Data Visualization with R](https://rkabacoff.github.io/datavis/) R is an amazing platform for data analysis, capable of creating almost any type of graph. This book helps you create the most popular visualizations - from quick and dirty plots to publication-ready graphs. The text relies heavily on the ggplot2 package for graphics, but other approaches are covered as well.
 
-
+- [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/index.html) In this book, you’ll gain insight and practical skills for creating interactive and dynamic web graphics for data analysis from R
 
 Misc books [here](https://bookdown.org/home/archive/)
