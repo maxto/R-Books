@@ -42,4 +42,6 @@ This short book introduces an R package, bookdown, to change your workflow of wr
 
 - [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/index.html) In this book, you’ll gain insight and practical skills for creating interactive and dynamic web graphics for data analysis from R
 
+- [Techincal Analysis with R](https://bookdown.org/kochiuyu/Technical-Analysis-with-R/) This short book is a short introduction on how to use R and RStudio to do financial data analysis from the beginning. No prior knowledge of R is required. While you will learn various skills to work on R programming but the main goal is to learn how to use R to backtest a trading strategy and evaluate its performance.
+
 Misc books [here](https://bookdown.org/home/archive/)
