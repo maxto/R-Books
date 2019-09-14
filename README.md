@@ -44,4 +44,6 @@ This short book introduces an R package, bookdown, to change your workflow of wr
 
 - [Techincal Analysis with R](https://bookdown.org/kochiuyu/Technical-Analysis-with-R/) This short book is a short introduction on how to use R and RStudio to do financial data analysis from the beginning. No prior knowledge of R is required. While you will learn various skills to work on R programming but the main goal is to learn how to use R to backtest a trading strategy and evaluate its performance.
 
+- [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/) You will learn how to build and tune these various models with R packages that have been tested and approved due to their ability to scale well. However, our motivation in almost every case is to describe the techniques in a way that helps develop intuition for its strengths and weaknesses. 
+
 Misc books [here](https://bookdown.org/home/archive/)
