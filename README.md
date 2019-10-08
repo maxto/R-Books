@@ -46,4 +46,6 @@ This short book introduces an R package, bookdown, to change your workflow of wr
 
 - [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/) You will learn how to build and tune these various models with R packages that have been tested and approved due to their ability to scale well. However, our motivation in almost every case is to describe the techniques in a way that helps develop intuition for its strengths and weaknesses. 
 
+- [Mastering Shiny](https://mastering-shiny.org/) Shiny is a framework for creating web applications using R code. It is designed primarily with data scientists in mind, and to that end, you can create pretty complicated Shiny apps with no knowledge of HTML, CSS, or JavaScript. 
+
 Misc books [here](https://bookdown.org/home/archive/)
