@@ -48,4 +48,7 @@ This short book introduces an R package, bookdown, to change your workflow of wr
 
 - [Mastering Shiny](https://mastering-shiny.org/) Shiny is a framework for creating web applications using R code. It is designed primarily with data scientists in mind, and to that end, you can create pretty complicated Shiny apps with no knowledge of HTML, CSS, or JavaScript. 
 
+- [Principles of Econometrics with  R](https://bookdown.org/ccolonescu/RPoE4/) Resource for the “Principles of Econometrics” textbook by Carter Hill, William Griffiths and Guay Lim, 4-th edition (Hill, Griffiths, and Lim 2011).
+
+
 Misc books [here](https://bookdown.org/home/archive/)
