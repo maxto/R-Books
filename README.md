@@ -50,5 +50,6 @@ This short book introduces an R package, bookdown, to change your workflow of wr
 
 - [Principles of Econometrics with  R](https://bookdown.org/ccolonescu/RPoE4/) Resource for the “Principles of Econometrics” textbook by Carter Hill, William Griffiths and Guay Lim, 4-th edition (Hill, Griffiths, and Lim 2011).
 
+- [Processing and Analyzing Financial Data with R](https://www.msperlin.com/pafdR/) This book introduces the reader to the use of R and RStudio as a platform for processing and analyzing financial data.
 
 Misc books [here](https://bookdown.org/home/archive/)
