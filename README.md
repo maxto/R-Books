@@ -52,4 +52,6 @@ This short book introduces an R package, bookdown, to change your workflow of wr
 
 - [Processing and Analyzing Financial Data with R](https://www.msperlin.com/pafdR/) This book introduces the reader to the use of R and RStudio as a platform for processing and analyzing financial data.
 
+- [Happy Git and GitHub for the useR](https://happygitwithr.com/) Happy Git provides opinionated instructions on how to: Install Git and get it working smoothly with GitHub, in the shell and in the RStudio IDE. Develop a few key workflows that cover your most common tasks. Integrate Git and GitHub into your daily work with R and R Markdown.
+
 Misc books [here](https://bookdown.org/home/archive/)
