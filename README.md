@@ -54,4 +54,6 @@ This short book introduces an R package, bookdown, to change your workflow of wr
 
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/) Happy Git provides opinionated instructions on how to: Install Git and get it working smoothly with GitHub, in the shell and in the RStudio IDE. Develop a few key workflows that cover your most common tasks. Integrate Git and GitHub into your daily work with R and R Markdown.
 
+- [Outstanding User Interfaces with Shiny](https://divadnojnarg.github.io/outstanding-shiny-ui/) This book is not an HTML/Javascript/CSS course! Instead, it provides a survival kit to be able to customize Shiny. I am sure however that readers will want to explore more about these topics.
+
 Misc books [here](https://bookdown.org/home/archive/)
