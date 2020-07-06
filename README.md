@@ -56,4 +56,9 @@ This short book introduces an R package, bookdown, to change your workflow of wr
 
 - [Outstanding User Interfaces with Shiny](https://divadnojnarg.github.io/outstanding-shiny-ui/) This book is not an HTML/Javascript/CSS course! Instead, it provides a survival kit to be able to customize Shiny. I am sure however that readers will want to explore more about these topics.
 
+- [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/) This book will not get you started with Shiny, nor talk how to work with Shiny once it is sent to production. What we’ll see is the process of building an application that will later be sent to production.
+
+
+
+
 Misc books [here](https://bookdown.org/home/archive/)
