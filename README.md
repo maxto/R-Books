@@ -58,7 +58,7 @@ This short book introduces an R package, bookdown, to change your workflow of wr
 
 - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/) This book will not get you started with Shiny, nor talk how to work with Shiny once it is sent to production. What we’ll see is the process of building an application that will later be sent to production.
 
-
+- [Forecasting: Principles and Practice](https://otexts.com/fpp2/) This textbook is intended to provide a comprehensive introduction to forecasting methods and to present enough information about each method for readers to be able to use them sensibly. We don’t attempt to give a thorough discussion of the theoretical details behind each method, although the references at the end of each chapter will fill in many of those details.
 
 
 Misc books [here](https://bookdown.org/home/archive/)
