@@ -1,6 +1,6 @@
 # R-Books
 
-A non-exhaustive list of R books. Full list here [bookdown pkg](https://bookdown.org/)
+A non-exhaustive list of R books. Full list here [bookdown.org](https://bookdown.org/)
 
 ### R
 
