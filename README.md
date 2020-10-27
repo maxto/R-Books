@@ -53,6 +53,8 @@ A non-exhaustive list of R books. Full list here [bookdown.org](https://bookdown
 
 - [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/index.html) In this book, you’ll gain insight and practical skills for creating interactive and dynamic web graphics for data analysis from R
 
+- [Data Visualization with ggplot2](https://viz-ggplot2.rsquaredacademy.com/) Data Visualization with ggplot2
+
 
 ### Database 
 
