@@ -18,6 +18,8 @@ A non-exhaustive list of R books. Full list here [bookdown.org](https://bookdown
 
 ### R Shiny
 
+- [JavaScript for R](https://book.javascript-for-r.com/) This book aims to remedy that by revealing how much JavaScript can greatly enhance various stages of data science pipelines from the analysis to the communication of results.
+
 - [Mastering Shiny](https://mastering-shiny.org/) Shiny is a framework for creating web applications using R code. It is designed primarily with data scientists in mind, and to that end, you can create pretty complicated Shiny apps with no knowledge of HTML, CSS, or JavaScript. 
 
 - [Outstanding User Interfaces with Shiny](https://divadnojnarg.github.io/outstanding-shiny-ui/) This book is not an HTML/Javascript/CSS course! Instead, it provides a survival kit to be able to customize Shiny. I am sure however that readers will want to explore more about these topics.
