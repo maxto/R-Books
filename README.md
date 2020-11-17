@@ -43,6 +43,9 @@ A non-exhaustive list of R books. Full list here [bookdown.org](https://bookdown
 
 - [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/) You will learn how to build and tune these various models with R packages that have been tested and approved due to their ability to scale well. However, our motivation in almost every case is to describe the techniques in a way that helps develop intuition for its strengths and weaknesses. 
 
+- [Introduction to Data Exploration and Analysis with R](https://bookdown.org/mikemahoney218/IDEAR/) This book is designed as a crash course in coding with R and data analysis, built for people trying to teach themselves the skills needed for most analyst jobs today. You won’t need any past experience with R or data analytics - the aim of the book is to work as a primer for people of all backgrounds.
+
+
 ### Data Visualization
 
 - [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/) The book is meant as a guide to making visualizations that accurately reflect the data, tell a story, and look professional. It has grown out of my experience of working with students and postdocs in my laboratory on thousands of data visualizations. Over the years, I have noticed that the same issues arise over and over. I have attempted to collect my accumulated knowledge from these interactions in the form of this book. The book’s source code is hosted on GitHub, at https://github.com/clauswilke/dataviz.
