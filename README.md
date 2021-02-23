@@ -45,6 +45,8 @@ A non-exhaustive list of R books. Full list here [bookdown.org](https://bookdown
 
 - [Introduction to Data Exploration and Analysis with R](https://bookdown.org/mikemahoney218/IDEAR/) This book is designed as a crash course in coding with R and data analysis, built for people trying to teach themselves the skills needed for most analyst jobs today. You won’t need any past experience with R or data analytics - the aim of the book is to work as a primer for people of all backgrounds.
 
+- [Explanatory Model Analysis](https://ema.drwhy.ai/) Explore, Explain, and Examine Predictive Models. With examples in R and Python
+
 
 ### Data Visualization
 
