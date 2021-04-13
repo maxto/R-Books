@@ -52,13 +52,11 @@ A non-exhaustive list of R books. Full list here [bookdown.org](https://bookdown
 
 - [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/) The book is meant as a guide to making visualizations that accurately reflect the data, tell a story, and look professional. It has grown out of my experience of working with students and postdocs in my laboratory on thousands of data visualizations. Over the years, I have noticed that the same issues arise over and over. I have attempted to collect my accumulated knowledge from these interactions in the form of this book. The book’s source code is hosted on GitHub, at https://github.com/clauswilke/dataviz.
 
-- [plotly for R](https://plotly-book.cpsievert.me/) This website explains and partially documents the R package plotly, a high-level interface to the open source JavaScript graphing library plotly.js (which powers plot.ly). The R package already has numerous examples and documentation on https://plot.ly/r and https://plot.ly/ggplot2, but this website provides more of a cohesive narrative to help explain fundamental concepts and recent developments. By reading from start to finish, readers new to R and plotly should be able to get up and running fairly quickly. That being said, advanced R and plotly users should still find the majority of this material useful and informative. I highly recommend copying/pasting examples into your R console, and modifying them as you read along, to aid the learning process.
-
 - [R Graphics Cookbook, 2nd edition](https://r-graphics.org/) A practical guide that provides more than 150 recipes to help you generate high-quality graphs quickly, without having to comb through all the details of R’s graphing systems. 
 
 - [Data Visualization with R](https://rkabacoff.github.io/datavis/) R is an amazing platform for data analysis, capable of creating almost any type of graph. This book helps you create the most popular visualizations - from quick and dirty plots to publication-ready graphs. The text relies heavily on the ggplot2 package for graphics, but other approaches are covered as well.
 
-- [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/index.html) In this book, you’ll gain insight and practical skills for creating interactive and dynamic web graphics for data analysis from R
+- [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/index.html) In this book, you’ll gain insight and practical skills for creating interactive and dynamic web graphics for data analysis from R. It makes heavy use of plotly for rendering graphics, but you’ll also learn about other R packages that augment a data science workflow, such as the tidyverse and shiny.
 
 - [Data Visualization with ggplot2](https://viz-ggplot2.rsquaredacademy.com/) Data Visualization with ggplot2
 
