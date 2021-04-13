@@ -76,10 +76,6 @@ A non-exhaustive list of R books. Full list here [bookdown.org](https://bookdown
 
 - [Processing and Analyzing Financial Data with R](https://www.msperlin.com/pafdR/) This book introduces the reader to the use of R and RStudio as a platform for processing and analyzing financial data.
 
-- [Outstanding User Interfaces with Shiny](https://divadnojnarg.github.io/outstanding-shiny-ui/) This book is not an HTML/Javascript/CSS course! Instead, it provides a survival kit to be able to customize Shiny. I am sure however that readers will want to explore more about these topics.
-
-- [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/) This book will not get you started with Shiny, nor talk how to work with Shiny once it is sent to production. What we’ll see is the process of building an application that will later be sent to production.
-
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/) This textbook is intended to provide a comprehensive introduction to forecasting methods and to present enough information about each method for readers to be able to use them sensibly. We don’t attempt to give a thorough discussion of the theoretical details behind each method, although the references at the end of each chapter will fill in many of those details.
 
 ### Utils
