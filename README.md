@@ -85,4 +85,8 @@ A non-exhaustive list of R books. Full list here [bookdown.org](https://bookdown
 - [bookdown](https://bookdown.org/yihui/bookdown/) bookdown: Authoring Books and Technical Documents with R Markdown.
 This short book introduces an R package, bookdown, to change your workflow of writing books. It should be technically easy to write a book, visually pleasant to view the book, fun to interact with the book, convenient to navigate through the book, straightforward for readers to contribute or leave feedback to the book author(s), and more importantly, authors should not always be distracted by typesetting details.
 
+### Books
+
+- [Big Book of R](https://www.bigbookofr.com/index.html) Your last-ever bookmark.The collection now stands at about 250 books. Most of these are free. Some are paid but usually quite affordable.
+
 Misc books [here](https://bookdown.org/home/archive/)
